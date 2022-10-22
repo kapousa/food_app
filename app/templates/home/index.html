@@ -1,0 +1,33 @@
+<html>
+<head>
+    <title>Food App</title>
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+</head>
+<body>
+<div id="wrapper">
+    <div id="content">
+        <center>
+            <div>
+                <img src="static/images/logo.png" style="height: 20%;">
+                <!--span-- id="country">Australia</span-->
+            </div>
+        </center>
+        <form id="search-form" action="/findrecipes" method="post">
+            <center>
+                <input type="text" name="search" id="search-box" placeholder="egg, cheese, milk,...">
+                <p>List of what's in your refrigerator. Use a comma to separate the items.</p>
+                <div id="button-container">
+                    <input type="submit" value="Find available recipes">
+                </div>
+            </center>
+        </form>
+    </div>
+    <div id="footer">
+        <div id="footer-left">
+        </div>
+        <div id="footer-right">
+        </div>
+    </div>
+</div>
+</body>
+</html>

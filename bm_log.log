@@ -1,0 +1,453 @@
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:40:01] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:40:12] "[35m[1mGET /index.html HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:40:12] "GET /index.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:40:12] "GET /index.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:40:12] "GET /index.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:40:12] "[36mGET /index.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/base/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:42:32] "[35m[1mGET /index.html HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:42:32] "[36mGET /index.html?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:42:32] "[36mGET /index.html?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:42:32] "[36mGET /index.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:42:32] "[36mGET /index.html?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/base/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:43:36] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:43:38] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:43:38] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:43:38] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:43:38] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:43:38] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/base/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:44:54] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:44:59] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:45:15] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:45:16] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:45:16] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:45:16] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:45:17] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:45:17] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:45:17] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:45:31] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/base/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:48:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:48:17] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:48:17] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:48:17] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:48:17] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:48:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:48:56] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:48:56] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:48:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:48:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/base/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:50:37] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:50:37] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:50:37] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:50:37] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:50:37] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:50:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:50:46] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:50:46] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:50:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:50:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/base/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:51:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:51:15] "[33mGET /images/logo.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:51:15] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:51:15] "GET /static/images/bg.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:51:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:52:05] "GET /static/images/logo.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:52:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:52:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:52:31] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 14:52:31] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/foodsearch/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/foodsearch/routes.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:18:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:18:46] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:18:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:18:46] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:18:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:19:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:19:12] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:19:12] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:19:12] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:20:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:20:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:20:06] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:20:06] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:20:21] "[35m[1mGET /findrecipes?search=milk,+cheese,+egg HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:20:21] "GET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:20:21] "GET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:20:21] "GET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:20:21] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:21:12] "[35m[1mGET /findrecipes?search=milk,+cheese,+egg HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:21:12] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:21:12] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:21:12] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:21:12] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:21:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:21:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:21:51] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:22:28] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:22:28] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:22:28] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:22:28] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:23:22] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:23:22] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:23:22] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:23:22] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:23:22] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:36:00] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:36:00] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:36:00] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:36:00] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:36:00] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:36:30] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:36:30] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:36:30] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:36:30] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:36:30] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:37:01] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:37:01] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:37:01] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:37:01] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:37:01] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:38:42] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:38:42] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:38:42] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:38:42] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:38:42] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:39:18] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:39:18] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:39:18] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:39:18] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:39:18] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:42:24] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:42:24] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:42:24] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:42:24] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:42:24] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:43:29] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:43:29] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:43:29] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:43:29] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:43:29] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:48:12] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:48:12] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:48:12] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:48:12] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:48:12] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:49:34] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:49:34] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:49:34] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:49:34] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:49:34] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:50:12] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:50:12] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:50:12] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:50:12] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:50:12] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:50:35] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:50:35] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:50:35] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:50:35] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:50:35] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:52:14] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:52:14] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:52:14] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:52:14] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:52:14] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:53:47] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:53:47] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:53:47] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:53:47] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:53:47] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:57:56] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:57:56] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:57:56] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:57:56] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:57:56] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:59:32] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:59:33] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:59:33] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:59:33] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 15:59:33] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:01:18] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:01:18] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:01:18] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:01:18] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:01:18] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:02:36] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:02:36] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:02:36] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:02:36] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:02:36] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:03:32] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:03:32] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:03:32] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:03:32] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:03:32] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:04:54] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:04:54] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:04:54] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:04:54] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:04:54] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:07:22] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:07:22] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:07:22] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:07:22] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:07:22] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 555-710-804
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:12:39] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:12:39] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:12:39] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:12:39] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:12:39] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:13:33] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:13:33] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:13:33] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:13:33] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:13:33] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:15:39] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:15:39] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:15:39] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:15:39] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:15:39] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:18:36] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:18:36] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:18:36] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:18:36] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:18:36] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:21:49] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:21:49] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:21:49] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:21:49] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 16:21:49] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = sqlite:////Users/kapo/PycharmProjects/food_app/app/db.sqlite3?check_same_thread=False
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
