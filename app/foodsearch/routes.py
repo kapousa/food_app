@@ -17,17 +17,20 @@ def findrecipes():
     if request.method == 'POST':
         search_words = request.form.get("search")
         search_service = APIsSearchServices()
-        related_cluster = search_service.get_related_cluster(search_words)
-        content = request.get_json(silent=True)
+        tags,meals = search_service.search_meals(search_words)
 
-    return 0
+    return render_template('home/index.html', search_words = search_words,
+                           has_results= '1',
+                           tags= tags, meals = meals)
 
+@blueprint.route('/showmeal', methods=['GET'])
+def showmeal():
+    if request.method == 'GET':
+        meal_Id = request.args.get("id")
+        search_service = APIsSearchServices()
+        meal, interactions = search_service.show_meal(meal_Id)
 
-@blueprint.route('/api/v1/classifydata', methods=['POST'])
-def classifydata_api():
-    content = request.json
-
-    return 0
+    return render_template('home/meal.html', meal= meal, interactions = interactions)
 
 
 # Errors

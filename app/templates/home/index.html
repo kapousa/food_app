@@ -14,15 +14,34 @@
         </center>
         <form id="search-form" action="/findrecipes" method="post">
             <center>
-                <input type="text" name="search" id="search-box" placeholder="egg, cheese, milk,...">
+                <input type="text" name="search" id="search-box" placeholder="egg, cheese, milk,..." value="{{ search_words }}">
                 <p>List of what's in your refrigerator. Use a comma to separate the items.</p>
                 <div id="button-container">
                     <input type="submit" value="Find available recipes">
                 </div>
             </center>
         </form>
+
     </div>
-    <div id="footer">
+    {% if has_results == '1' %}
+        <div id="results" ><b>Tags: </b>{{ tags }}
+            <div id="spacer"></div>
+        <table>
+        {% for item in meals %}
+            <tr>
+                <td><a href="/showmeal?id={{ item[0] }}">{{ item[1] }}</a> - {{ item[3] }} steps</td>
+            </tr>
+            <tr>
+                <td>{{ item[2] }}</td>
+            </tr>
+            <tr>
+                <td style="text-align: right"><a href="/showmeal?id={{ item[0] }}">Read more...</a></td>
+            </tr>
+        {% endfor %}
+        </table>
+        </div>
+    {% endif %}
+    <div id="footer1">
         <div id="footer-left">
         </div>
         <div id="footer-right">

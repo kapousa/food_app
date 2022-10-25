@@ -9,7 +9,9 @@ from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from importlib import import_module
 
+
 db = SQLAlchemy(session_options={"expire_on_commit": False})
+
 
 
 config_parser = ConfigParser()
