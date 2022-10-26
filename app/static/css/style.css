@@ -41,6 +41,10 @@ html, body {
   margin: 0 auto;
 }
 
+#title{
+  color: red;
+  padding: 10px;
+}
 #logo {
   background-image: url('../images/logo.png');
   width:50px;

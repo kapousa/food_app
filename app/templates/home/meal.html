@@ -12,9 +12,10 @@
                 <!--span-- id="country">Australia</span-->
             </div>
         </center>
-         <form id="search-form" action="/findrecipes" method="post">
+        <form id="search-form" action="/findrecipes" method="post">
             <center>
-                <input type="text" name="search" id="search-box" placeholder="egg, cheese, milk,..." value="{{ search_words }}">
+                <input type="text" name="search" id="search-box" placeholder="egg, cheese, milk,..."
+                       value="{{ search_words }}">
                 <div id="button-container">
                     <input type="submit" value="Search again">
                 </div>
@@ -22,28 +23,47 @@
         </form>
     </div>
     <div id="results">
-        <table style="padding: 30px; line-height: 20px";>
+        <table style="padding: 30px; line-height: 20px" ;>
             {% for item in meal %}
                 <tr>
-                    <td><h2>{{ item[1] }}</h2></td>
-                    <td>Minutes: {{ item[2] }}</td>
-                    <td>Number of steps: {{ item[3] }}</td>
+                    <td colspan="2"><h2 id="title">{{ item[1] }}</h2></td>
                 </tr>
                 <tr>
-                    <td colspan="3">
+                    <td width="50%">Minutes: {{ item[2] }}</td>
+                    <td width="50%">Number of steps: {{ item[3] }}</td>
+                </tr>
+                <tr>
+                    <td colspan="2">
                         <div id="spacer"></div>
                     </td>
                 </tr>
                 <tr>
-                    <td colspan="3">{{ item[4] }}</td>
+                    <td colspan="2">{{ item[4] }}</td>
                 </tr>
                 <tr>
-                    <td colspan="3">
-                    <b>Steps</b>
-                        {% set stps = item[5].split("',") %}
+                    <td colspan="2">
+                        <div id="spacer"></div>
+                    </td>
+                </tr>
+                 <tr>
+                    <td colspan="2">
+                        {% set stps = item[6][1:-1].replace("'","") %}
+                        <b id="title">Ingredients</b><br/>
+                        <p style="padding-left: 10px;">{{ stps }}</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <div id="spacer"></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <b id="title">Steps</b>
+                        {% set stps = item[5][1:-1].split("',") %}
                         <ol>
                             {% for stp in stps %}
-                                <li>{{ stp }}</li>
+                                <li>{{ stp.replace("'","") }}</li>
                             {% endfor %}
                         </ol>
                     </td>
@@ -52,8 +72,8 @@
         </table>
     </div>
     <div id="results">
-        <h2>Users reviews</h2>
-        <table style="padding: 30px; line-height: 20px;">
+        <h2 id="title">Users reviews</h2>
+        <table style="padding-left: 30px; padding-right: 30px; line-height: 20px;"x >
             {% for interaction in interactions %}
                 <tr>
                     <td>User: {{ interaction[0] }}</td>

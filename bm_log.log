@@ -1517,3 +1517,209 @@ INFO:werkzeug:127.0.0.1 - - [25/Oct/2022 15:07:19] "GET /showmeal?id=50 HTTP/1.1
 INFO:werkzeug:127.0.0.1 - - [25/Oct/2022 15:07:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [25/Oct/2022 15:07:19] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [25/Oct/2022 15:07:19] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = mysql://root:Summer-321@localhost:3306/food_app
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:3000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = mysql://root:Summer-321@localhost:3306/food_app
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:33:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:33:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:33:49] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:33:49] "GET /static/images/bg.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:33:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:34:08] "[35m[1mPOST /findrecipes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:34:08] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:34:08] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:34:08] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:34:08] "[36mGET /findrecipes?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:35:34] "POST /findrecipes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:35:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:35:34] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:35:34] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:35:51] "GET /showmeal?id=48 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:35:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:35:51] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:35:51] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:37:07] "POST /findrecipes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:37:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:37:07] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:37:07] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:38:56] "POST /findrecipes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:38:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:38:56] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:38:56] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:39:13] "GET /showmeal?id=52 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:39:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:39:13] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:39:13] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = mysql://root:Summer-321@localhost:3306/food_app
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:42:06] "GET /showmeal?id=52 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:42:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:42:06] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:42:06] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:43:02] "GET /showmeal?id=52 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:43:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:43:02] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:43:02] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:44:59] "GET /showmeal?id=52 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:44:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:44:59] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:44:59] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:45:31] "GET /showmeal?id=52 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:45:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:45:31] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:45:31] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:46:29] "[35m[1mGET /showmeal?id=52 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:46:29] "[36mGET /showmeal?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:46:29] "[36mGET /showmeal?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:46:29] "[36mGET /showmeal?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:46:29] "[36mGET /showmeal?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = mysql://root:Summer-321@localhost:3306/food_app
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug: * Detected change in '/Users/kapo/PycharmProjects/food_app/app/fs/middleware/APIsSearchServices.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:app:DEBUG       = True
+INFO:app:Environment = Debug
+INFO:app:DBMS        = mysql://root:Summer-321@localhost:3306/food_app
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 895-872-292
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:47:17] "GET /showmeal?id=52 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:47:17] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:47:17] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:47:17] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:49:44] "GET /showmeal?id=52 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:49:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:49:44] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:49:44] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:51:38] "GET /showmeal?id=52 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:51:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:51:38] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:51:38] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:52:24] "GET /showmeal?id=52 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:52:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:52:24] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:52:24] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:53:02] "GET /showmeal?id=52 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:53:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:53:02] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:53:02] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:53:22] "GET /showmeal?id=52 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:53:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:53:22] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:53:22] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:54:13] "GET /showmeal?id=52 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:54:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:54:13] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:54:13] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:54:47] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:54:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:54:47] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:57:52] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:57:52] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:57:52] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:57:52] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:58:32] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:58:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:58:32] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:58:32] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:58:43] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:58:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:58:43] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:58:43] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:58:57] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:58:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:58:57] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 12:58:57] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:01:12] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:01:12] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:01:12] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:01:12] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:01:27] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:01:27] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:01:27] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:01:27] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:02:20] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:02:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:02:20] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:02:20] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:02:33] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:02:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:02:33] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:02:33] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:02:42] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:02:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:02:42] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:02:42] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:03:20] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:03:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:03:20] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:03:20] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:03:55] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:03:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:03:55] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:03:55] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:03:59] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:03:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:03:59] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:04:35] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:04:35] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:04:35] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:04:35] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:05:52] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:05:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:05:52] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:05:52] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:06:20] "GET /showmeal?id=191 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:06:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:06:20] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:06:20] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:06:59] "GET /showmeal?id=210 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:06:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:06:59] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:08:50] "GET /showmeal?id=210 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:08:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:08:50] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:08:50] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:09:10] "GET /showmeal?id=210 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:09:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:09:10] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:09:10] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:11:24] "GET /showmeal?id=210 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:11:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:11:24] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:11:24] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:11:53] "GET /showmeal?id=210 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:11:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:11:53] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:11:53] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:12:21] "GET /showmeal?id=210 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:12:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:12:21] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:12:21] "[36mGET /static/images/bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:12:36] "GET /showmeal?id=92 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:12:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:12:36] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:13:21] "POST /findrecipes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:13:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:13:21] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:13:38] "GET /showmeal?id=39 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:13:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Oct/2022 13:13:38] "[36mGET /static/images/logo.png HTTP/1.1[0m" 304 -

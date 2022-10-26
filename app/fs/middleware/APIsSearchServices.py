@@ -34,7 +34,7 @@ class APIsSearchServices:
         return r.status_code
 
     def show_meal(self, meal_id):
-        meal = ModelRecipes.query.with_entities(ModelRecipes.id,ModelRecipes.name, ModelRecipes.minutes, ModelRecipes.n_steps, ModelRecipes.description, ModelRecipes.steps).filter_by(id =meal_id).all()
+        meal = ModelRecipes.query.with_entities(ModelRecipes.id,ModelRecipes.name, ModelRecipes.minutes, ModelRecipes.n_steps, ModelRecipes.description, ModelRecipes.steps, ModelRecipes.ingredients).filter_by(id =meal_id).all()
         interactions = ModelInteractions.query.with_entities(ModelInteractions.user_id,ModelInteractions.date, ModelInteractions.rating, ModelInteractions.review).filter_by(recipe_id=meal_id).all()
         return meal, interactions
 
